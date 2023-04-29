@@ -1,2 +1,2 @@
-POPPLER_PATH = r'C:\Program Files (x86)\poppler-0.68.0\bin'
-TESSERACT_CMD = r'C:\Users\shiva\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
+POPPLER_PATH = r'(please add the address of the bin folder in the poppler folder, only remove this from bracket to bracket nothing else)'
+TESSERACT_CMD = r'(please add the address of tesseract.exe from the Tesseract-OCR folder, only remove this from bracket to bracket nothing else)'
