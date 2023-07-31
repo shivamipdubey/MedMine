@@ -85,7 +85,7 @@ For windows use powershell
 Clone the project
 
 ```bash
-  git clone https://github.com/shivamipdubey/MedMine
+  git clone https://github.com/shivamipdubey/MedMine.git
 ```
 
 Go to the project directory
